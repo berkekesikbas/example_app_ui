@@ -1,4 +1,4 @@
-# flutter_devam_dersleri
+# flutter_fashion_app_ui
 
 A new Flutter application.
 
